@@ -1,0 +1,3 @@
+module JobHelper
+
+end
